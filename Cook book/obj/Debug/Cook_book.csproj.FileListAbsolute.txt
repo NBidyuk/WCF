@@ -1,0 +1,86 @@
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\Cook book.exe.config
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\Resources\8.jpg
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\Cook book.exe
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\Cook book.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\obj\Debug\Cook_book.csprojResolveAssemblyReference.cache
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\obj\Debug\App.baml
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\obj\Debug\View\AddRecipe.g.cs
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\obj\Debug\View\MainWindow.g.cs
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\obj\Debug\App.g.cs
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\obj\Debug\Cook book_Content.g.cs
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\obj\Debug\Cook book_MarkupCompile.cache
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\obj\Debug\Cook book_MarkupCompile.lref
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\obj\Debug\Skins\BeigeSkin.baml
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\obj\Debug\Skins\GreenSkin.baml
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\obj\Debug\View\AddRecipe.baml
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\obj\Debug\View\MainWindow.baml
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\obj\Debug\Cook book.g.resources
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\obj\Debug\Cook_book.Properties.Resources.resources
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\obj\Debug\Cook_book.csproj.GenerateResource.Cache
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\obj\Debug\Cook book.exe
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\obj\Debug\Cook book.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\System.Windows.Interactivity.dll
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\System.Windows.Interactivity.xml
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\НАТАША\Шаг\ДЗ\Projects\WPF\Cook book\Cook book\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\Cook book.exe.config
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\obj\Debug\Cook book.exe
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\obj\Debug\Cook book.pdb
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\Resources\8.jpg
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\Cook book.exe
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\Cook book.pdb
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\System.Windows.Interactivity.dll
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\System.Windows.Interactivity.xml
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\obj\Debug\Cook_book.csprojResolveAssemblyReference.cache
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\obj\Debug\App.baml
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\obj\Debug\View\AddRecipe.g.cs
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\obj\Debug\View\MainWindow.g.cs
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\obj\Debug\App.g.cs
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\obj\Debug\Cook book_Content.g.cs
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\obj\Debug\Cook book_MarkupCompile.cache
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\obj\Debug\Cook book_MarkupCompile.lref
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\obj\Debug\Skins\BeigeSkin.baml
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\obj\Debug\Skins\GreenSkin.baml
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\obj\Debug\View\AddRecipe.baml
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\obj\Debug\View\MainWindow.baml
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\obj\Debug\Cook book.g.resources
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\obj\Debug\Cook_book.Properties.Resources.resources
+D:\НАТАША\Шаг\Homework\Projects\WPF\Cook book\Cook book\obj\Debug\Cook_book.csproj.GenerateResource.Cache
